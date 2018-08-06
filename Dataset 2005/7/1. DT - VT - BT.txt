@@ -1,0 +1,157 @@
+time=212ms
+
+
+BODY: left=0,top=0,right=1424,bottom=633; DOM="[object HTMLBodyElement]"
+
+BODY: left=0,top=0,right=1424,bottom=633; DOM="[object HTMLBodyElement]"
+
+CENTER: left=8,top=8,right=1432,bottom=641; DOM="[object HTMLElement]"
+
+FORM: left=8,top=197,right=1432,bottom=273; DOM="[object HTMLFormElement]"
+
+FONT: left=525,top=238,right=916,bottom=272; DOM="[object HTMLFontElement]"
+
+TABLE: left=445,top=312,right=995,bottom=539; DOM="[object HTMLTableElement]"
+
+TBODY: left=448,top=315,right=992,bottom=536; DOM="[object HTMLTableSectionElement]"
+
+TR: left=448,top=315,right=992,bottom=338; DOM="[object HTMLTableRowElement]"
+
+TR: left=448,top=341,right=992,bottom=447; DOM="[object HTMLTableRowElement]"
+
+TD: left=505,top=341,right=992,bottom=447; DOM="[object HTMLTableCellElement]"
+
+TR: left=448,top=450,right=992,bottom=536; DOM="[object HTMLTableRowElement]"
+
+TD: left=505,top=450,right=992,bottom=536; DOM="[object HTMLTableCellElement]"
+
+FORM: left=8,top=559,right=1432,bottom=641; DOM="[object HTMLFormElement]"
+
+B: left=554,top=562,right=1027,bottom=641; DOM="[object HTMLElement]"
+
+FONT: left=492,top=604,right=965,bottom=640; DOM="[object HTMLFontElement]"
+
+
+
+==== DT: "file:///C:/dataset-2005/7/1.html" ====
+  BODY: left=0,top=0,right=1424,bottom=633; DOM="[object HTMLBodyElement]"
+  |- CENTER: left=8,top=8,right=1432,bottom=641; DOM="[object HTMLElement]"
+  | |- A: left=620,top=163,right=820,bottom=178; DOM="http://clendening.kumc.edu/dc/"
+  | | |- IMG: left=620,top=8,right=820,bottom=178; DOM="[object HTMLImageElement]"
+  | |- BR: left=820,top=178,right=820,bottom=178; DOM="[object HTMLBRElement]"
+  | |- FORM: left=8,top=197,right=1432,bottom=273; DOM="[object HTMLFormElement]"
+  | | |- H3: left=8,top=197,right=1432,bottom=220; DOM="[object HTMLHeadingElement]"
+  | | |- FONT: left=525,top=238,right=916,bottom=272; DOM="[object HTMLFontElement]"
+  | | | |- B: left=775,top=238,right=784,bottom=255; DOM="[object HTMLElement]"
+  | | | |- B: left=807,top=238,right=834,bottom=255; DOM="[object HTMLElement]"
+  | | | |- BR: left=916,top=252,right=916,bottom=252; DOM="[object HTMLBRElement]"
+  | | | |- B: left=593,top=255,right=602,bottom=272; DOM="[object HTMLElement]"
+  | |- BR: left=720,top=272,right=720,bottom=292; DOM="[object HTMLBRElement]"
+  | |- BR: left=720,top=292,right=720,bottom=312; DOM="[object HTMLBRElement]"
+  | |- TABLE: left=445,top=312,right=995,bottom=539; DOM="[object HTMLTableElement]"
+  | | |- TBODY: left=448,top=315,right=992,bottom=536; DOM="[object HTMLTableSectionElement]"
+  | | | |- TR: left=448,top=315,right=992,bottom=338; DOM="[object HTMLTableRowElement]"
+  | | | | |- TH: left=448,top=315,right=502,bottom=338; DOM="[object HTMLTableCellElement]"
+  | | | | | |- FONT: left=458,top=318,right=493,bottom=335; DOM="[object HTMLFontElement]"
+  | | | | | | |- B: left=458,top=318,right=493,bottom=335; DOM="[object HTMLElement]"
+  | | | | |- TH: left=505,top=315,right=992,bottom=338; DOM="[object HTMLTableCellElement]"
+  | | | | | |- FONT: left=733,top=318,right=764,bottom=335; DOM="[object HTMLFontElement]"
+  | | | | | | |- B: left=733,top=318,right=764,bottom=335; DOM="[object HTMLElement]"
+  | | | |- TR: left=448,top=341,right=992,bottom=447; DOM="[object HTMLTableRowElement]"
+  | | | | |- TD: left=448,top=341,right=502,bottom=447; DOM="[object HTMLTableCellElement]"
+  | | | | | |- FONT: left=471,top=344,right=479,bottom=361; DOM="[object HTMLFontElement]"
+  | | | | |- TD: left=505,top=341,right=992,bottom=447; DOM="[object HTMLTableCellElement]"
+  | | | | | |- A: left=508,top=346,right=947,bottom=363; DOM="http://clendening.kumc.edu/dc/fn/about.html"
+  | | | | | | |- STRONG: left=508,top=346,right=947,bottom=363; DOM="[object HTMLElement]"
+  | | | | | | | |- FONT: left=508,top=346,right=947,bottom=363; DOM="[object HTMLFontElement]"
+  | | | | | |- FONT: left=649,top=426,right=664,bottom=443; DOM="[object HTMLFontElement]"
+  | | | | | |- BR: left=664,top=440,right=664,bottom=440; DOM="[object HTMLBRElement]"
+  | | | |- TR: left=448,top=450,right=992,bottom=536; DOM="[object HTMLTableRowElement]"
+  | | | | |- TD: left=448,top=450,right=502,bottom=536; DOM="[object HTMLTableCellElement]"
+  | | | | | |- FONT: left=471,top=453,right=479,bottom=470; DOM="[object HTMLFontElement]"
+  | | | | |- TD: left=505,top=450,right=992,bottom=536; DOM="[object HTMLTableCellElement]"
+  | | | | | |- A: left=508,top=455,right=711,bottom=472; DOM="http://clendening.kumc.edu/dc/search.html"
+  | | | | | | |- STRONG: left=508,top=455,right=711,bottom=472; DOM="[object HTMLElement]"
+  | | | | | | | |- FONT: left=508,top=455,right=711,bottom=472; DOM="[object HTMLFontElement]"
+  | | | | | |- FONT: left=798,top=515,right=813,bottom=532; DOM="[object HTMLFontElement]"
+  | | | | | |- BR: left=813,top=529,right=813,bottom=529; DOM="[object HTMLBRElement]"
+  | |- BR: left=720,top=539,right=720,bottom=559; DOM="[object HTMLBRElement]"
+  | |- FORM: left=8,top=559,right=1432,bottom=641; DOM="[object HTMLFormElement]"
+  | | |- INPUT: left=0,top=0,right=0,bottom=0; DOM="[object HTMLInputElement]"
+  | | |- INPUT: left=0,top=0,right=0,bottom=0; DOM="[object HTMLInputElement]"
+  | | |- INPUT: left=0,top=0,right=0,bottom=0; DOM="[object HTMLInputElement]"
+  | | |- INPUT: left=0,top=0,right=0,bottom=0; DOM="[object HTMLInputElement]"
+  | | |- B: left=554,top=562,right=1027,bottom=641; DOM="[object HTMLElement]"
+  | | | |- INPUT: left=651,top=560,right=818,bottom=583; DOM="[object HTMLInputElement]"
+  | | | |- INPUT: left=822,top=559,right=886,bottom=584; DOM="[object HTMLInputElement]"
+  | | | |- BR: left=886,top=577,right=886,bottom=577; DOM="[object HTMLBRElement]"
+  | | | |- BR: left=720,top=584,right=720,bottom=604; DOM="[object HTMLBRElement]"
+  | | | |- FONT: left=492,top=604,right=965,bottom=640; DOM="[object HTMLFontElement]"
+  | | | | |- A: left=492,top=604,right=535,bottom=621; DOM="http://clendening.kumc.edu/about.html"
+  | | | | |- A: left=551,top=604,right=657,bottom=621; DOM="http://clendening.kumc.edu/catguide.html"
+  | | | | |- A: left=673,top=604,right=809,bottom=621; DOM="http://clendening.kumc.edu/special.html"
+  | | | | |- A: left=825,top=604,right=948,bottom=621; DOM="http://clendening.kumc.edu/museum.html"
+  | | | | |- BR: left=948,top=618,right=948,bottom=618; DOM="[object HTMLBRElement]"
+  | | | | |- A: left=484,top=623,right=609,bottom=640; DOM="http://clendening.kumc.edu/giftsanddonations.html"
+  | | | | |- A: left=625,top=623,right=848,bottom=640; DOM="http://clendening.kumc.edu/other.html"
+  | | | | |- A: left=864,top=623,right=957,bottom=640; DOM="http://clendening.kumc.edu/whatsnew.html"
+==== DT: "file:///C:/dataset-2005/7/1.html" ====
+
+
+==== VT: "file:///C:/dataset-2005/7/1.html" ====
+  BODY: left=0,top=0,right=1424,bottom=633; DOM="[object HTMLBodyElement]"
+  |- CENTER: left=8,top=8,right=1432,bottom=641; DOM="[object HTMLElement]"
+  | |- IMG: left=620,top=8,right=820,bottom=178; DOM="[object HTMLImageElement]"
+  | |- FORM: left=8,top=197,right=1432,bottom=273; DOM="[object HTMLFormElement]"
+  | | |- H3: left=8,top=197,right=1432,bottom=220; DOM="[object HTMLHeadingElement]"
+  | | |- FONT: left=525,top=238,right=916,bottom=272; DOM="[object HTMLFontElement]"
+  | | | |- B: left=775,top=238,right=784,bottom=255; DOM="[object HTMLElement]"
+  | | | |- B: left=807,top=238,right=834,bottom=255; DOM="[object HTMLElement]"
+  | | | |- B: left=593,top=255,right=602,bottom=272; DOM="[object HTMLElement]"
+  | |- TABLE: left=445,top=312,right=995,bottom=539; DOM="[object HTMLTableElement]"
+  | | |- TBODY: left=448,top=315,right=992,bottom=536; DOM="[object HTMLTableSectionElement]"
+  | | | |- TR: left=448,top=315,right=992,bottom=338; DOM="[object HTMLTableRowElement]"
+  | | | | |- B: left=458,top=318,right=493,bottom=335; DOM="[object HTMLElement]"
+  | | | | |- B: left=733,top=318,right=764,bottom=335; DOM="[object HTMLElement]"
+  | | | |- TR: left=448,top=341,right=992,bottom=447; DOM="[object HTMLTableRowElement]"
+  | | | | |- FONT: left=471,top=344,right=479,bottom=361; DOM="[object HTMLFontElement]"
+  | | | | |- TD: left=505,top=341,right=992,bottom=447; DOM="[object HTMLTableCellElement]"
+  | | | | | |- FONT: left=508,top=346,right=947,bottom=363; DOM="[object HTMLFontElement]"
+  | | | | | |- FONT: left=649,top=426,right=664,bottom=443; DOM="[object HTMLFontElement]"
+  | | | |- TR: left=448,top=450,right=992,bottom=536; DOM="[object HTMLTableRowElement]"
+  | | | | |- FONT: left=471,top=453,right=479,bottom=470; DOM="[object HTMLFontElement]"
+  | | | | |- TD: left=505,top=450,right=992,bottom=536; DOM="[object HTMLTableCellElement]"
+  | | | | | |- FONT: left=508,top=455,right=711,bottom=472; DOM="[object HTMLFontElement]"
+  | | | | | |- FONT: left=798,top=515,right=813,bottom=532; DOM="[object HTMLFontElement]"
+  | |- FORM: left=8,top=559,right=1432,bottom=641; DOM="[object HTMLFormElement]"
+  | | |- B: left=554,top=562,right=1027,bottom=641; DOM="[object HTMLElement]"
+  | | | |- INPUT: left=651,top=560,right=818,bottom=583; DOM="[object HTMLInputElement]"
+  | | | |- INPUT: left=822,top=559,right=886,bottom=584; DOM="[object HTMLInputElement]"
+  | | | |- FONT: left=492,top=604,right=965,bottom=640; DOM="[object HTMLFontElement]"
+  | | | | |- A: left=492,top=604,right=535,bottom=621; DOM="http://clendening.kumc.edu/about.html"
+  | | | | |- A: left=551,top=604,right=657,bottom=621; DOM="http://clendening.kumc.edu/catguide.html"
+  | | | | |- A: left=673,top=604,right=809,bottom=621; DOM="http://clendening.kumc.edu/special.html"
+  | | | | |- A: left=825,top=604,right=948,bottom=621; DOM="http://clendening.kumc.edu/museum.html"
+  | | | | |- A: left=484,top=623,right=609,bottom=640; DOM="http://clendening.kumc.edu/giftsanddonations.html"
+  | | | | |- A: left=625,top=623,right=848,bottom=640; DOM="http://clendening.kumc.edu/other.html"
+  | | | | |- A: left=864,top=623,right=957,bottom=640; DOM="http://clendening.kumc.edu/whatsnew.html"
+==== VT: "file:///C:/dataset-2005/7/1.html" ====
+
+
+==== BT: "file:///C:/dataset-2005/7/1.html" ====
+  [BODY]: left=0,top=0,right=1424,bottom=633; DOMs="[BODY]"
+  |- [CENTER]: left=8,top=8,right=1432,bottom=641; DOMs="[CENTER]"
+  | |- [IMG,FORM,TABLE,FORM]: left=8,top=8,right=1432,bottom=641; DOMs="[IMG,FORM,TABLE,FORM]"
+  | | |- [H3,FONT]: left=8,top=197,right=1432,bottom=272; DOMs="[H3,FONT]"
+  | | | |- [B,B,B]: left=593,top=238,right=834,bottom=272; DOMs="[B,B,B]"
+  | | |- [TBODY]: left=448,top=315,right=992,bottom=536; DOMs="[TBODY]"
+  | | | |- [TR,TR,TR]: left=448,top=315,right=992,bottom=536; DOMs="[TR,TR,TR]"
+  | | | | |- [B,B]: left=458,top=318,right=764,bottom=335; DOMs="[B,B]"
+  | | | | |- [FONT,TD]: left=471,top=341,right=992,bottom=447; DOMs="[FONT,TD]"
+  | | | | | |- [FONT,FONT]: left=508,top=346,right=947,bottom=443; DOMs="[FONT,FONT]"
+  | | | | |- [FONT,TD]: left=471,top=450,right=992,bottom=536; DOMs="[FONT,TD]"
+  | | | | | |- [FONT,FONT]: left=508,top=455,right=813,bottom=532; DOMs="[FONT,FONT]"
+  | | |- [B]: left=554,top=562,right=1027,bottom=641; DOMs="[B]"
+  | | | |- [INPUT,INPUT,FONT]: left=492,top=559,right=965,bottom=640; DOMs="[INPUT,INPUT,FONT]"
+  | | | | |- [A,A,A,A,A,A,A]: left=484,top=604,right=957,bottom=640; DOMs="[A,A,A,A,A,A,A]"
+==== BT: "file:///C:/dataset-2005/7/1.html" ====

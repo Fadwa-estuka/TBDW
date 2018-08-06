@@ -1,0 +1,7 @@
+<tr>
+      <td valign=top align=center headers="Rank"><font face="Verdana,Arial,Helvetica" size="2">1</font></td>
+      <td headers="Title">
+            <a href="http://clendening.kumc.edu/dc/search.html"><strong><font face="Verdana,Arial,Helvetica" size="2">Digital Clendening: Search : </font></strong></a>
+            Search the Digital Clendening . .Enter your search term in the box below. All components of the Digital Clendening will be searched. . .Search tips: .Enter search terms in all lower case. This forces the search engine to find all versions o<font face="Verdana,Arial,Helvetica" size="2">... </font><br>
+           </td>
+  </tr>

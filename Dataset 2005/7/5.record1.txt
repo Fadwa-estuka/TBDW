@@ -1,0 +1,7 @@
+<tr>
+      <td valign=top align=center headers="Rank"><font face="Verdana,Arial,Helvetica" size="2">1</font></td>
+      <td headers="Title">
+            <a href="http://clendening.kumc.edu/dc/fn/chalmer3.html"><strong><font face="Verdana,Arial,Helvetica" size="2">Florence Nightingale Letters at the Clendening Library : </font></strong></a>
+            Letter to Mrs. Chalmers .Dated October 2, 1866 .Page 3 of 12. . . . . .there in a state equally .corrupt of mind & body .(if I may phrase it so). .One leg was amputated .and for nearly 3 weeks he was .literally kept alive on .Champagne wine<font face="Verdana,Arial,Helvetica" size="2">... </font><br>
+           </td>
+  </tr>

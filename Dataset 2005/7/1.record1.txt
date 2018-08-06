@@ -1,0 +1,7 @@
+<tr>
+      <td valign=top align=center headers="Rank"><font face="Verdana,Arial,Helvetica" size="2">1</font></td>
+      <td headers="Title">
+            <a href="http://clendening.kumc.edu/dc/fn/about.html"><strong><font face="Verdana,Arial,Helvetica" size="2">Clendening History of Medicine Library: Nightingale Letters : </font></strong></a>
+            A Selection of Letters Written by Florence Nightingale . About the Exhibit. The effort to digitize the Florence Nightingale letters held by the Clendening History of Medicine Library involved several steps. Initially, each letter was deacid<font face="Verdana,Arial,Helvetica" size="2">... </font><br>
+           </td>
+  </tr>
