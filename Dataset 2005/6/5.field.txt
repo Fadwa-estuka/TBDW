@@ -1,0 +1,12 @@
+### company ###
+ARCADIS NV
+### symbol URL ###
+http://finance.yahoo.com/q?s=arcaf
+### symbol ###
+ARCAF
+### estimate ###
+N/A
+### time ###
+Time Not Supplied
+### add my calendar URL ###
+http://calendar.yahoo.com/?v=60&ST=20041110&REM1=01d&TITLE=ARCADIS+NV+Earnings+Announcement&VIEW=d

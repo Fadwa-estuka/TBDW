@@ -1,0 +1,12 @@
+### company ###
+Apex Silver Mines Limited
+### symbol URL ###
+http://finance.yahoo.com/q?s=sil
+### symbol ###
+SIL
+### estimate ###
+N/A
+### time ###
+Time Not Supplied
+### add my calendar URL ###
+http://calendar.yahoo.com/?v=60&ST=20040213&REM1=01d&TITLE=Apex+Silver+Mines+Limited+Earnings+Announcement&VIEW=d

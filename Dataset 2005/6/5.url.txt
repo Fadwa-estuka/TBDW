@@ -1,0 +1,12 @@
+http://finance.yahoo.com/q?s=arcaf
+http://finance.yahoo.com/q?s=abf.l
+http://finance.yahoo.com/q?s=athl.as
+http://finance.yahoo.com/q?s=buh
+http://finance.yahoo.com/q?s=rio
+http://finance.yahoo.com/q?s=deg
+http://finance.yahoo.com/q?s=e
+http://finance.yahoo.com/q?s=epc
+http://finance.yahoo.com/q?s=jrn
+http://finance.yahoo.com/q?s=rsti
+http://finance.yahoo.com/q?s=scm
+http://finance.yahoo.com/q?s=tot

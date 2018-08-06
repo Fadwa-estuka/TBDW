@@ -1,0 +1,5 @@
+<tr><td>Apex Silver Mines Limited</td><td><a href="http://finance.yahoo.com/q?s=sil">SIL</a></td><td
+align=center>N/A</td><td
+align=center><small>Time Not Supplied</small></td><td
+align=center><a target=calendar href="http://calendar.yahoo.com/?v=60&ST=20040213&REM1=01d&TITLE=Apex+Silver+Mines+Limited+Earnings+Announcement&VIEW=d">Add</a></td><td
+align=center><br></td></tr>

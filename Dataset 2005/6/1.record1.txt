@@ -1,0 +1,4 @@
+<tr><td>Agilent Technologies Inc.</td><td><a href="http://finance.yahoo.com/q?s=a">A</a></td><td
+align=center>0.12</td><td
+align=center><small>After Market Close</small></td><td
+align=center><a target=calendar href="http://calendar.yahoo.com/?v=60&ST=20040517&REM1=01d&TITLE=Agilent+Technologies+Inc.+Earnings+Announcement&VIEW=d">Add</a></td></tr>

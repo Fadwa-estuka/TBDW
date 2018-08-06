@@ -1,0 +1,16 @@
+http://finance.yahoo.com/q?s=sil
+http://finance.yahoo.com/q?s=b
+http://finance.yahoo.com/q?s=abx
+http://finance.yahoo.com/q?s=cty.l
+http://finance.yahoo.com/q?s=dmh
+http://finance.yahoo.com/q?s=frt
+http://finance.yahoo.com/q?s=sjm
+http://finance.yahoo.com/q?s=mam
+http://finance.yahoo.com/q?s=rha
+http://finance.yahoo.com/q?s=imi
+http://finance.yahoo.com/q?s=scg
+http://finance.yahoo.com/q?s=skab.st
+http://finance.yahoo.com/q?s=sonw.st
+http://finance.yahoo.com/q?s=sr
+http://finance.yahoo.com/q?s=teln
+http://finance.yahoo.com/q?s=tu

@@ -1,0 +1,12 @@
+### company ###
+Agilent Technologies Inc.
+### symbol URL ###
+http://finance.yahoo.com/q?s=a
+### symbol ###
+A
+### estimate ###
+0.12
+### time ###
+After Market Close
+### add my calendar URL ###
+http://calendar.yahoo.com/?v=60&ST=20040517&REM1=01d&TITLE=Agilent+Technologies+Inc.+Earnings+Announcement&VIEW=d

@@ -1,0 +1,8 @@
+### company ###
+Advanta Corporation
+### symbol URL ###
+http://finance.yahoo.com/q?s=advna
+### symbol ###
+ADVNA
+### time ###
+Before Market Open

@@ -1,0 +1,8 @@
+### company ###
+1-800-FLOWERS.COM
+### symbol URL ###
+http://finance.yahoo.com/q?s=flws
+### symbol ###
+FLWS
+### time ###
+Before Market Open
