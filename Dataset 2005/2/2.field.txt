@@ -1,0 +1,49 @@
+### image URL ###
+http://artists.iuma.com/IUMA/Bands/12th_House/
+### image ###
+2_files/idx-232617.gif
+### title URL ###
+http://artists.iuma.com/IUMA/Bands/12th_House/
+### title ###
+12th House
+### category 1 URL ###
+http://artists2.iuma.com/Genre/PR/
+### category 1 ###
+Progressive Rock
+### category 2 URL ###
+http://artists2.iuma.com/Genre/EZ/
+### category 2 ###
+Easy Listening
+### category 3 URL ###
+http://artists2.iuma.com/Genre/EX/
+### category 3 ###
+Experimental
+### category 4 URL ###
+http://artists2.iuma.com/Genre/RB/
+### category 4 ###
+Rhythm and Blues
+### region 1 ###
+Gold Coast, 
+### region 2 ###
+Queensland, 
+### region 3 URL ###
+http://artists2.iuma.com/Location/C-AU/index/A-1.html
+### region 3 ###
+Australia
+### mp3 URL ###
+http://artists2.iuma.com/site-bin/mp3gen/81679/IUMA/Bands/12th_House/audio/12th_House_-_Not_ordinary.mp3
+### mp3 ###
+mp3
+### real URL ###
+http://artists2.iuma.com/site-bin/ramgen.ram?art=12th_House&amp;son=Not_ordinary&amp;artid=81679
+### real ###
+real
+### audio title ###
+&#160;"Not ordinary"
+### summary ###
+12th House is the residue of a few bands that have disbanded, intially
+starting as a recording project we have grown to claim a so... 
+### Artist Page URL ###
+http://artists.iuma.com/IUMA/Bands/12th_House/
+### Artist Page ###
+Artist Page &#187; &#187; &#187;

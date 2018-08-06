@@ -1,0 +1,50 @@
+### image URL ###
+http://artists.iuma.com/IUMA/Bands/_A_Ron_E._Jones_World__Radiokook/
+### image ###
+4_files/idx-67232.gif
+### title URL ###
+http://artists.iuma.com/IUMA/Bands/_A_Ron_E._Jones_World__Radiokook/
+### title ###
+A Ron E. Jones World ...
+### category 1 URL ###
+http://artists2.iuma.com/Genre/AM/"
+### category 1 ###
+Ambient
+### category 2 URL ###
+http://artists2.iuma.com/Genre/JZ/"
+### category 2 ###
+Jazz
+### category 3 URL ###
+http://artists2.iuma.com/Genre/NA/"
+### category 3 ###
+New Age
+### category 4 URL ###
+http://artists2.iuma.com/Genre/EL/"
+### category 4 ###
+Electronic
+### region 1 ###
+San Francisco, 
+### region 2 URL ###
+http://artists2.iuma.com/Location/CA/index/A-1.html
+### region 2 ###
+California
+### region 3 URL ###
+http://artists2.iuma.com/Location/C-US/index/A-1.html
+### region 3 ###
+USA
+### mp3 URL ###
+http://artists2.iuma.com/site-bin/mp3gen/31630/IUMA/Bands/_A_Ron_E._Jones_World__Radiokook/audio/_A_Ron_E._Jones_World__Radiokook_-_AGENT_X__Ron_E._Jones.mp3
+### mp3 ###
+mp3
+### real URL ###
+http://artists2.iuma.com/site-bin/ramgen.ram?art=_A_Ron_E._Jones_World__Radiokook&amp;son=AGENT_X__Ron_E._Jones&amp;artid=31630
+### real ###
+real
+### audio title ###
+&#160;"AGENT 'X' - Ron E. Jones"
+### summary ###
+Cool Music ranging from landscape sounds to Biting Guitar riffs! Music for an International Audience!!...  
+### Artist Page URL ###
+http://artists.iuma.com/IUMA/Bands/_A_Ron_E._Jones_World__Radiokook/
+### Artist page ###
+Artist Page &#187; &#187; &#187;

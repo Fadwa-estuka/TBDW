@@ -1,0 +1,43 @@
+<!-- ##### ARTIST SNAPSHOT ##### -->
+            <!-- ##### Artist Name limited to 22 chracters ##### -->
+			<!-- ##### Song Name limited to 22 chracters ##### -->
+			<!-- ##### Bio limited to 78 chracters not including "... Artist Page >>>" ##### --> 
+			<table width="480" height="100" cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>
+			    <td rowspan="4" width="100" height="100" align="center" valign="middle" bgcolor="#ded8be"><a href="http://artists.iuma.com/IUMA/Bands/___StrongArm_Records_Incorporated____/"><img src="5_files/idx-184239.gif" height="100" width="86" hspace="0" vspace="0" alt="   StrongArm Records Incorporated    " border="0"></a></td>
+				<td rowspan="4" width="4" height="100"><img src="5_files/1pxTransparent.gif" width="4" height="1"></td>
+			    <td width="380" height="19">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ded8be">
+					<tbody><tr>
+						<td align="left"><font face="arial, helvetica"><b><u><a href="http://artists.iuma.com/IUMA/Bands/___StrongArm_Records_Incorporated____/">   StrongArm Records I...</a></u></b></font></td>
+						<td align="right"><font face="arial, helvetica" size="-1"><b><i>&#160;</i></b></font></td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+			    <td width="380" height="32">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td bgcolor="#ded8be"><font face="arial, helvetica" size="-2"><a href="http://artists2.iuma.com/Genre/RA/">Hip-Hop/Rap</a>, <a href="http://artists2.iuma.com/Genre/RR/">Rock</a>, <a href="http://artists2.iuma.com/Genre/PO/">Pop</a>, <a href="http://artists2.iuma.com/Genre/RB/">Rhythm and Blues</a></font></td>
+						<td align="right" bgcolor="#ded8be"><font face="arial, helvetica" size="-2">N/A, , <a href="http://artists2.iuma.com/Location/C-US/index/A-1.html">USA</a></font></td>
+					</tr>
+					<tr>
+						<td colspan="2" width="90%" align="left">&#160;<font face="arial, helvetica" size="-1"><b><a href="http://artists2.iuma.com/site-bin/mp3gen/69201/IUMA/Bands/___StrongArm_Records_Incorporated____/audio/___StrongArm_Records_Incorporated_____-_Xclusive_Freestyle.mp3" onclick="setTimeout('reloadAd()',10);return true">mp3</a> | <a href="http://artists2.iuma.com/site-bin/ramgen.ram?art=___StrongArm_Records_Incorporated____&amp;son=Xclusive_Freestyle&amp;artid=69201" onclick="setTimeout('reloadAd()',10);return true">real</a></b></font>
+							<font face="arial, helvetica" size="-1"><b>&#160;"Xclusive Freestyle"</b></font></td>
+					</tr>
+					<tr>
+						<td colspan="2" width="380" height="2" bgcolor="#ded8be"><img src="5_files/1pxTransparent.gif" width="1" height="2"></td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+			    			    <td width="380" height="47" valign="top"><font face="arial, helvetica" size="-1">Millions of Fans, Thousand of Haters, Hundreds of Imitators, but only ONE StrongArm Records Inc.. Trust That! 
+...  <a href="http://artists.iuma.com/IUMA/Bands/___StrongArm_Records_Incorporated____/">Artist Page &#187; &#187; &#187;</a></font></td>
+			</tr>
+			<tr>
+				<td width="380" height="2" bgcolor="#ded8be"><img src="5_files/1pxTransparent.gif" width="1" height="2"></td>
+			</tr>
+			</tbody></table>
+			<!-- ##### END ARTIST SNAPSHOT ##### -->

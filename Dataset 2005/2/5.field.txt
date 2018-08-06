@@ -1,0 +1,46 @@
+### image URL ###
+http://artists.iuma.com/IUMA/Bands/___StrongArm_Records_Incorporated____/
+### image ###
+5_files/idx-184239.gif
+### title URL ###
+http://artists.iuma.com/IUMA/Bands/___StrongArm_Records_Incorporated____/
+### title ###
+   StrongArm Records I...
+### category 1 URL ###
+http://artists2.iuma.com/Genre/RA/
+### category 1 ###
+Hip-Hop/Rap
+### category 2 URL ###
+http://artists2.iuma.com/Genre/RR/
+### category 2 ###
+Rock
+### category 3 URL ###
+http://artists2.iuma.com/Genre/PO/
+### category 3 ###
+Pop
+### category 4 URL ###
+http://artists2.iuma.com/Genre/RB/
+### category 4 ###
+Rhythm and Blues
+### region 1 ###
+N/A, , 
+### region 2 URL ###
+http://artists2.iuma.com/Location/C-US/index/A-1.html
+### region 2 ###
+USA
+### mp3 URL ###
+http://artists2.iuma.com/site-bin/mp3gen/69201/IUMA/Bands/___StrongArm_Records_Incorporated____/audio/___StrongArm_Records_Incorporated_____-_Xclusive_Freestyle.mp3
+### mp3 ###
+mp3
+### real URL ###
+http://artists2.iuma.com/site-bin/ramgen.ram?art=___StrongArm_Records_Incorporated____&amp;son=Xclusive_Freestyle&amp;artid=69201
+### real ###
+real
+### audio title ###
+&#160;"Xclusive Freestyle"
+### summary ###
+Millions of Fans, Thousand of Haters, Hundreds of Imitators, but only ONE StrongArm Records Inc.. Trust That! 
+### Artist Page URL ###
+http://artists.iuma.com/IUMA/Bands/___StrongArm_Records_Incorporated____/
+### Artist Page ###
+Artist Page &#187; &#187; &#187;

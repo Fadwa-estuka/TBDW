@@ -1,0 +1,42 @@
+<!-- ##### ARTIST SNAPSHOT ##### -->
+            <!-- ##### Artist Name limited to 22 chracters ##### -->
+			<!-- ##### Song Name limited to 22 chracters ##### -->
+			<!-- ##### Bio limited to 78 chracters not including "... Artist Page >>>" ##### --> 
+			<table width="480" height="100" cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>
+			    <td rowspan="4" width="100" height="100" align="center" valign="middle" bgcolor="#ded8be"><a href="http://artists.iuma.com/IUMA/Bands/deengus_dee_Silver_DragonflyEerie_Techno/"><img src="3_files/idx-191876.gif" height="100" width="100" hspace="0" vspace="0" alt="*deengus dee* (Silver Dragonfly/Eerie Techno)" border="0"></a></td>
+				<td rowspan="4" width="4" height="100"><img src="3_files/1pxTransparent.gif" width="4" height="1"></td>
+			    <td width="380" height="19">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ded8be">
+					<tbody><tr>
+						<td align="left"><font face="arial, helvetica"><b><u><a href="http://artists.iuma.com/IUMA/Bands/deengus_dee_Silver_DragonflyEerie_Techno/">*deengus dee* (Silver ...</a></u></b></font></td>
+						<td align="right"><font face="arial, helvetica" size="-1"><b><i>&#160;</i></b></font></td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+			    <td width="380" height="32">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td bgcolor="#ded8be"><font face="arial, helvetica" size="-2"><a href="http://artists2.iuma.com/Genre/RR/">Rock</a>, <a href="http://artists2.iuma.com/Genre/EL/">Electronic</a>, <a href="http://artists2.iuma.com/Genre/IN/">Instrumental</a>, <a href="http://artists2.iuma.com/Genre/HC/">Hard-core/Industrial</a></font></td>
+						<td align="right" bgcolor="#ded8be"><font face="arial, helvetica" size="-2">Corpus Christi, <a href="http://artists2.iuma.com/Location/TX/index/A-1.html">Texas</a>, <a href="http://artists2.iuma.com/Location/C-US/index/A-1.html">USA</a></font></td>
+					</tr>
+					<tr>
+						<td colspan="2" width="90%" align="left">&#160;<font face="arial, helvetica" size="-1"><b><a href="http://artists2.iuma.com/site-bin/mp3gen/70694/IUMA/Bands/deengus_dee_Silver_DragonflyEerie_Techno/audio/deengus_dee_Silver_DragonflyEerie_Techno_-_Once_Bitten.mp3" onclick="setTimeout('reloadAd()',10);return true">mp3</a> | <a href="http://artists2.iuma.com/site-bin/ramgen.ram?art=deengus_dee_Silver_DragonflyEerie_Techno&amp;son=Once_Bitten&amp;artid=70694" onclick="setTimeout('reloadAd()',10);return true">real</a></b></font>
+							<font face="arial, helvetica" size="-1"><b>&#160;"Once Bitten"</b></font></td>
+					</tr>
+					<tr>
+						<td colspan="2" width="380" height="2" bgcolor="#ded8be"><img src="3_files/1pxTransparent.gif" width="1" height="2"></td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+			    			    <td width="380" height="47" valign="top"><font face="arial, helvetica" size="-1">Silver Dragonfly is a one person project started by *deengus* in late 2001 after departing from her band, Naked Fairy....  <a href="http://artists.iuma.com/IUMA/Bands/deengus_dee_Silver_DragonflyEerie_Techno/">Artist Page &#187; &#187; &#187;</a></font></td>
+			</tr>
+			<tr>
+				<td width="380" height="2" bgcolor="#ded8be"><img src="3_files/1pxTransparent.gif" width="1" height="2"></td>
+			</tr>
+			</tbody></table>
+			<!-- ##### END ARTIST SNAPSHOT ##### -->

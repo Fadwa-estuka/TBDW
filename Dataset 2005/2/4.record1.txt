@@ -1,0 +1,42 @@
+<!-- ##### ARTIST SNAPSHOT ##### -->
+            <!-- ##### Artist Name limited to 22 chracters ##### -->
+			<!-- ##### Song Name limited to 22 chracters ##### -->
+			<!-- ##### Bio limited to 78 chracters not including "... Artist Page >>>" ##### --> 
+			<table width="480" height="100" cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>
+			    <td rowspan="4" width="100" height="100" align="center" valign="middle" bgcolor="#ded8be"><a href="http://artists.iuma.com/IUMA/Bands/_A_Ron_E._Jones_World__Radiokook/"><img src="4_files/idx-67232.gif" height="74" width="100" hspace="0" vspace="0" alt=" A Ron E. Jones World - Radiokook" border="0"></a></td>
+				<td rowspan="4" width="4" height="100"><img src="4_files/1pxTransparent.gif" width="4" height="1"></td>
+			    <td width="380" height="19">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ded8be">
+					<tbody><tr>
+						<td align="left"><font face="arial, helvetica"><b><u><a href="http://artists.iuma.com/IUMA/Bands/_A_Ron_E._Jones_World__Radiokook/"> A Ron E. Jones World ...</a></u></b></font></td>
+						<td align="right"><font face="arial, helvetica" size="-1"><b><i>&#160;</i></b></font></td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+			    <td width="380" height="32">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td bgcolor="#ded8be"><font face="arial, helvetica" size="-2"><a href="http://artists2.iuma.com/Genre/AM/">Ambient</a>, <a href="http://artists2.iuma.com/Genre/JZ/">Jazz</a>, <a href="http://artists2.iuma.com/Genre/NA/">New Age</a>, <a href="http://artists2.iuma.com/Genre/EL/">Electronic</a></font></td>
+						<td align="right" bgcolor="#ded8be"><font face="arial, helvetica" size="-2">San Francisco, <a href="http://artists2.iuma.com/Location/CA/index/A-1.html">California</a>, <a href="http://artists2.iuma.com/Location/C-US/index/A-1.html">USA</a></font></td>
+					</tr>
+					<tr>
+						<td colspan="2" width="90%" align="left">&#160;<font face="arial, helvetica" size="-1"><b><a href="http://artists2.iuma.com/site-bin/mp3gen/31630/IUMA/Bands/_A_Ron_E._Jones_World__Radiokook/audio/_A_Ron_E._Jones_World__Radiokook_-_AGENT_X__Ron_E._Jones.mp3" onclick="setTimeout('reloadAd()',10);return true">mp3</a> | <a href="http://artists2.iuma.com/site-bin/ramgen.ram?art=_A_Ron_E._Jones_World__Radiokook&amp;son=AGENT_X__Ron_E._Jones&amp;artid=31630" onclick="setTimeout('reloadAd()',10);return true">real</a></b></font>
+							<font face="arial, helvetica" size="-1"><b>&#160;"AGENT 'X' - Ron E. Jones"</b></font></td>
+					</tr>
+					<tr>
+						<td colspan="2" width="380" height="2" bgcolor="#ded8be"><img src="4_files/1pxTransparent.gif" width="1" height="2"></td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+			    			    <td width="380" height="47" valign="top"><font face="arial, helvetica" size="-1">Cool Music ranging from landscape sounds to Biting Guitar riffs! Music for an International Audience!!...  <a href="http://artists.iuma.com/IUMA/Bands/_A_Ron_E._Jones_World__Radiokook/">Artist Page &#187; &#187; &#187;</a></font></td>
+			</tr>
+			<tr>
+				<td width="380" height="2" bgcolor="#ded8be"><img src="4_files/1pxTransparent.gif" width="1" height="2"></td>
+			</tr>
+			</tbody></table>
+			<!-- ##### END ARTIST SNAPSHOT ##### -->

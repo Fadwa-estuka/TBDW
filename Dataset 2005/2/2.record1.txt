@@ -1,0 +1,44 @@
+<!-- ##### ARTIST SNAPSHOT ##### -->
+            <!-- ##### Artist Name limited to 22 chracters ##### -->
+			<!-- ##### Song Name limited to 22 chracters ##### -->
+			<!-- ##### Bio limited to 78 chracters not including "... Artist Page >>>" ##### --> 
+			<table width="480" height="100" cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>
+			    <td rowspan="4" width="100" height="100" align="center" valign="middle" bgcolor="#ded8be"><a href="http://artists.iuma.com/IUMA/Bands/12th_House/"><img src="2_files/idx-232617.gif" height="100" width="100" hspace="0" vspace="0" alt="12th House" border="0"></a></td>
+				<td rowspan="4" width="4" height="100"><img src="2_files/1pxTransparent.gif" width="4" height="1"></td>
+			    <td width="380" height="19">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ded8be">
+					<tbody><tr>
+						<td align="left"><font face="arial, helvetica"><b><u><a href="http://artists.iuma.com/IUMA/Bands/12th_House/">12th House</a></u></b></font></td>
+						<td align="right"><font face="arial, helvetica" size="-1"><b><i>&#160;</i></b></font></td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+			    <td width="380" height="32">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td bgcolor="#ded8be"><font face="arial, helvetica" size="-2"><a href="http://artists2.iuma.com/Genre/PR/">Progressive Rock</a>, <a href="http://artists2.iuma.com/Genre/EZ/">Easy Listening</a>, <a href="http://artists2.iuma.com/Genre/EX/">Experimental</a>, <a href="http://artists2.iuma.com/Genre/RB/">Rhythm and Blues</a></font></td>
+						<td align="right" bgcolor="#ded8be"><font face="arial, helvetica" size="-2">Gold Coast, Queensland, <a href="http://artists2.iuma.com/Location/C-AU/index/A-1.html">Australia</a></font></td>
+					</tr>
+					<tr>
+						<td colspan="2" width="90%" align="left">&#160;<font face="arial, helvetica" size="-1"><b><a href="http://artists2.iuma.com/site-bin/mp3gen/81679/IUMA/Bands/12th_House/audio/12th_House_-_Not_ordinary.mp3" onclick="setTimeout('reloadAd()',10);return true">mp3</a> | <a href="http://artists2.iuma.com/site-bin/ramgen.ram?art=12th_House&amp;son=Not_ordinary&amp;artid=81679" onclick="setTimeout('reloadAd()',10);return true">real</a></b></font>
+							<font face="arial, helvetica" size="-1"><b>&#160;"Not ordinary"</b></font></td>
+					</tr>
+					<tr>
+						<td colspan="2" width="380" height="2" bgcolor="#ded8be"><img src="2_files/1pxTransparent.gif" width="1" height="2"></td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+			    			    <td width="380" height="47" valign="top"><font face="arial, helvetica" size="-1">12th
+House is the residue of a few bands that have disbanded, intially
+starting as a recording project we have grown to claim a so... <a href="http://artists.iuma.com/IUMA/Bands/12th_House/">Artist Page &#187; &#187; &#187;</a></font></td>
+			</tr>
+			<tr>
+				<td width="380" height="2" bgcolor="#ded8be"><img src="2_files/1pxTransparent.gif" width="1" height="2"></td>
+			</tr>
+			</tbody></table>
+			<!-- ##### END ARTIST SNAPSHOT ##### -->

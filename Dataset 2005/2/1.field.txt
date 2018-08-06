@@ -1,0 +1,47 @@
+### image URL ###
+http://artists.iuma.com/IUMA/Bands/Astral_Dance/
+### image ###
+1_files/idx-15910.gif
+### title URL ###
+http://artists.iuma.com/IUMA/Bands/Astral_Dance/
+### title ###
+Astral Dance
+### category 1 URL ###
+http://artists2.iuma.com/Genre/EX/
+### category 1 ### 
+Experimental
+### category 2 URL ###
+http://artists2.iuma.com/Genre/NA/
+### category 2 ###
+New Age
+### category 3 URL ###
+http://artists2.iuma.com/Genre/EL/
+### category 3 ###
+Electronic
+### category 4 URL ###
+http://artists2.iuma.com/Genre/PR/
+### category 4 ###
+Progressive Rock
+### region 1 ###
+Stockholm, , 
+### region 2 URL ###
+http://artists2.iuma.com/Location/C-SE/index/A-1.html
+### region 2 ###
+Sweden
+### mp3 URL###
+http://artists2.iuma.com/site-bin/mp3gen/10825/IUMA/Bands/Astral_Dance/audio/Astral_Dance_-_Memorial_sanctorum.mp3
+### mp3 ###
+mp3
+### real URL ###
+http://artists2.iuma.com/site-bin/ramgen.ram?art=Astral_Dance&amp;son=Memorial_sanctorum&amp;artid=10825"
+### real ###
+real
+### audio title ###
+&#160;"Memorial sanctorum"
+### summary ###
+PelleHanden the Swedish synth wizard with 4 album behind, a vital and
+expressive instrumental ambient electronic journey through ... 
+### Artist Page URL ### 
+http://artists.iuma.com/IUMA/Bands/Astral_Dance/
+### Artist Page ###
+Artist Page &#187; &#187; &#187;

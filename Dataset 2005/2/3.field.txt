@@ -1,0 +1,50 @@
+### image URL ###
+http://artists.iuma.com/IUMA/Bands/deengus_dee_Silver_DragonflyEerie_Techno/
+### image ###
+3_files/idx-191876.gif
+### title URL ###
+http://artists.iuma.com/IUMA/Bands/deengus_dee_Silver_DragonflyEerie_Techno/
+### title ###
+*deengus dee* (Silver ...
+### category 1 URL ###
+http://artists2.iuma.com/Genre/RR/
+### category 1 ###
+Rock
+### category 2 URL ###
+http://artists2.iuma.com/Genre/EL/
+### category 2 ###
+Electronic
+### category 3 URL ###
+http://artists2.iuma.com/Genre/IN/
+### category 3 ###
+Instrumental
+### category 4 URL ###
+http://artists2.iuma.com/Genre/HC/
+### category 4 ###
+Hard-core/Industrial
+### region 1 ###
+Corpus Christi, 
+### region 2 URL ###
+http://artists2.iuma.com/Location/TX/index/A-1.html
+### region 2 ###
+Texas
+### region 3 URL ###
+http://artists2.iuma.com/Location/C-US/index/A-1.html
+### region 3 ###
+USA
+### mp3 URL ###
+http://artists2.iuma.com/site-bin/mp3gen/70694/IUMA/Bands/deengus_dee_Silver_DragonflyEerie_Techno/audio/deengus_dee_Silver_DragonflyEerie_Techno_-_Once_Bitten.mp3
+### mp3 ###
+mp3
+### real URL ###
+http://artists2.iuma.com/site-bin/ramgen.ram?art=deengus_dee_Silver_DragonflyEerie_Techno&amp;son=Once_Bitten&amp;artid=70694
+### real ###
+real
+### audio title ###
+&#160;"Once Bitten"
+### summary ###
+Silver Dragonfly is a one person project started by *deengus* in late 2001 after departing from her band, Naked Fairy....  
+### Artist Page URL ###
+http://artists.iuma.com/IUMA/Bands/deengus_dee_Silver_DragonflyEerie_Techno/
+### Artist Page ###
+Artist Page &#187; &#187; &#187;
