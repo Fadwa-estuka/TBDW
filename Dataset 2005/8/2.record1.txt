@@ -1,0 +1,15 @@
+<TABLE WIDTH="100%" BORDER=0 CELLPADDING=0 CELLSPACING=5>
+<TR><TD VALIGN=TOP NOWRAP><FONT FACE="Arial,Helvetica,sans-serif">1:</FONT></TD>
+<TD VALIGN=TOP WIDTH=95%><FONT FACE="Arial,Helvetica,sans-serif"><A HREF="http://law.freeadvice.com/aviation_law/"><STRONG><B>Aviation</B> Law and Safety: Free Legal Information</STRONG></A>
+<BR><B>aviation</B> law information for individuals and small businesses written by lawyers but in easy to understand legal terms. FreeAdvice.com includes legal forms, state ...<BR><FONT SIZE=-1>http://law.freeadvice.com/aviation_law/
+</FONT></FONT></I>
+</TD><TD VALIGN=TOP NOWRAP ALIGN=RIGHT>
+<FONT FACE="Arial,Helvetica,sans-serif" SIZE="-1">99%<IMG SRC=/webinator/bar1.gif ALIGN=TOP  WIDTH=49 HEIGHT=10 ALT=**********><IMG SRC=/webinator/bar0.gif ALIGN=TOP WIDTH=1 HEIGHT=10  ALT=>
+<br>
+Size: 1K
+<br>
+Depth: 1<br>
+<a href="/texis/master/search/mysite.html?q=aviation&amp;order=r&cmd=mlt&id=600078116419121d">Find Similar</a><br>
+<a href="/texis/master/search/mysite.html?q=aviation&amp;order=r&cmd=context&id=600078116419121d#hit1">Match Info</a><br>
+<a href="/texis/master/search/mysite.html?q=aviation&amp;order=r&cmd=links&id=600078116419121d">Show Parents</a></FONT></TD></TR>
+</TABLE>

@@ -1,0 +1,21 @@
+### ranking ###
+1:
+### title URL ###
+http://law.freeadvice.com/admiralty_maritime/
+### title ###
+Maritime Law and <B>Admiralty</B> Law Legal Information
+### summary ###
+maritime/<B>admiralty</B> law information for individuals and small businesses written by lawyers but in easy to understand legal terms. FreeAdvice.com includes legal forms, ...<BR><FONT SIZE=-1>http://law.freeadvice.com/admiralty_maritime/
+</FONT>
+### rate ###
+98%
+### size ###
+Size: 1K
+### depth ###
+Depth: 1
+### find similar URL ###
+/texis/master/search/mysite.html?q=admiralty&amp;order=r&cmd=mlt&id=50007a1a10117c3d
+### match info URL ###
+/texis/master/search/mysite.html?q=admiralty&amp;order=r&cmd=context&id=50007a1a10117c3d#hit1
+### show parents URL ###
+/texis/master/search/mysite.html?q=admiralty&amp;order=r&cmd=links&id=50007a1a10117c3d

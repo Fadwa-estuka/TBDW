@@ -1,0 +1,23 @@
+### ranking ###
+1:
+### title URL ###
+http://law.freeadvice.com/estate_planning/asset_protection/bankruptcy_protect_assets.htm
+### title ###
+<B>Bankruptcy</B> to protect my assets - can I use it?
+### summary ###
+Home - Find a Lawyer - Law Bulletin Boards - Legal Forms - Search CAN I USE <B>BANKRUPTCY</B> TO PROTECT MY ASSETS? Free legal information for asset protection law @ FreeAdvice.com. ...<BR><FONT SIZE=-1>http://law.freeadvice.com/...
+n/bankruptcy_protect_assets.htm
+</FONT>
+### rate ###
+98%
+###size ###
+Size: 2K
+### depth ###
+Depth: 2
+### find similar URL ###
+/texis/master/search/mysite.html?q=bankruptcy&amp;order=r&cmd=mlt&id=2839424118701a3d
+### match info URL ###
+/texis/master/search/mysite.html?q=bankruptcy&amp;order=r&cmd=context&id=2839424118701a3d#hit1
+### show parents URL ###
+/texis/master/search/mysite.html?q=bankruptcy&amp;order=r&cmd=links&id=2839424118701a3d
+

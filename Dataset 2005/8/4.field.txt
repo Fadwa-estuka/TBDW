@@ -1,0 +1,22 @@
+### ranking ###
+1:
+### title URL ###
+http://law.freeadvice.com/litigation/appeals/criminal_cases_appeal.htm
+### title ###
+<B>Criminal</B> cases be appealed?
+### summary ###
+CAN <B>CRIMINAL</B> CASES BE APPEALED? Free legal information for appeals law @ FreeAdvice.com. Yes, the defendant may appeal after she or he is convicted at trial. Convicted ...<BR><FONT SIZE=-1>http://law.freeadvice.com/...
+peals/criminal_cases_appeal.htm
+</FONT>
+### rate###
+96%
+### size ###
+Size: 1K
+### depth ###
+Depth: 2
+### find similar URL ###
+/texis/master/search/mysite.html?q=criminal&amp;order=r&cmd=mlt&id=1029ba786851463d
+### match info URL ###
+/texis/master/search/mysite.html?q=criminal&amp;order=r&cmd=context&id=1029ba786851463d#hit1
+### show parents URL ###
+/texis/master/search/mysite.html?q=criminal&amp;order=r&cmd=links&id=1029ba786851463d

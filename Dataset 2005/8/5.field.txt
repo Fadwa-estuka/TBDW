@@ -1,0 +1,21 @@
+### ranking ###
+1:
+### title URL ###
+http://law.freeadvice.com/tax_law/employment_tax.htm
+### title ###
+<B>Employment</B> taxes -what are they?
+### summary ###
+- Law Bulletin Boards - Prepare Legal Documents - Legal Forms - Search WHAT ARE <B>EMPLOYMENT</B> TAXES? Free legal information for tax law @ FreeAdvice.com. <B>Employment</B> ...<BR><FONT SIZE=-1>http://law.freeadvice.com/tax_law/employment_tax.htm
+</FONT>
+### rate ###
+97%
+### size ###
+716 bytes 
+### depth ###
+Depth: 2
+### find similar URL ###
+/texis/master/search/mysite.html?q=employment&amp;order=r&cmd=mlt&id=307970498311055
+### match info URL ###
+/texis/master/search/mysite.html?q=employment&amp;order=r&cmd=context&id=307970498311055#hit1
+### show parents URL ###
+/texis/master/search/mysite.html?q=employment&amp;order=r&cmd=links&id=307970498311055
