@@ -1,0 +1,24 @@
+### title URL ###
+http://finance.yahoo.com/
+### title ###
+Yahoo! <b>Finance</b>
+### new window URL ###
+http://finance.yahoo.com/
+### new window image ###
+http://us.i1.yimg.com/us.yimg.com/i/s/nw.gif
+### summary ###
+stock quotes, investments, loans, insurance, and more.
+### category label###
+Category:
+### category URL###
+http://asia.dir.yahoo.com/Business_and_Economy/Finance_and_Investment/
+### category ###
+<b>Finance</b> and Investment
+### URL ###
+finance.yahoo.com/
+### size ###
+32k 
+### Cached URL ###
+http://asia.search.yahoo.com/search/asia_webcache?p=finance&ei=UTF-8&dx=1&url=y-nzEp3N330J:finance.yahoo.com/
+### More pages from this site URL ###
+http://asia.search.yahoo.com/search/asia?p=finance&ei=UTF-8&dx=1&fr=&vst=0&vs=yahoo.com

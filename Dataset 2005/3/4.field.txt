@@ -1,0 +1,23 @@
+### title URL ###
+http://www.cia.gov/cia/publications/factbook/geos/rp.html
+### title ###
+CIA World Factbook: <b>Philippines</b>
+### new window URL ###
+http://www.cia.gov/cia/publications/factbook/geos/rp.html
+### new window image ###
+http://us.i1.yimg.com/us.yimg.com/i/s/nw.gif
+### summary ###includes government, economy, transportation, and transnational issues.
+### category label###
+Category:
+### category URL ###
+http://asia.dir.yahoo.com/Regional/Countries/Philippines/Country_Guides/
+### category ###
+<b>Philippines</b> &gt; Country Guides
+### URL ###
+www.cia.gov/cia/publications/factbook/geos/rp.html
+### size ###
+101k 
+### Cached URL ###
+http://asia.search.yahoo.com/search/asia_webcache?p=philippines&ei=UTF-8&dx=1&url=8p4OpdG6AeEJ:www.cia.gov/cia/publications/factbook/geos/rp.html
+### More pages from this site URL ###
+http://asia.search.yahoo.com/search/asia?p=philippines&ei=UTF-8&dx=1&fr=&vst=0&vs=www.cia.gov

@@ -1,0 +1,24 @@
+### title URL ###
+http://www.ed.gov/
+### title ###
+U.S. Department of <b>Education</b>
+### new window URL ###
+http://www.ed.gov/
+### new window image ###
+http://us.i1.yimg.com/us.yimg.com/i/s/nw.gif
+### summary ###
+official site providing information on <b>education</b> policy, research, grants, financial aid, and more.
+### category label###
+Category:
+### category URL ###
+http://asia.dir.yahoo.com/Government/U_S__Government/Executive_Branch/Departments_and_Agencies/Department_of_Education/
+### category ###
+U.S. Department of <b>Education</b>
+### URL ###
+www.ed.gov/
+### size ###
+51k
+### Cached URL ###
+http://asia.search.yahoo.com/search/asia_webcache?p=education&ei=UTF-8&dx=1&url=yvo_kKzaLysJ:www.ed.gov/
+### More pages from this site URL ###
+http://asia.search.yahoo.com/search/asia?p=education&ei=UTF-8&dx=1&fr=&vst=0&vs=www.ed.gov

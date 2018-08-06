@@ -1,0 +1,24 @@
+### title URL ###
+http://www.tourism.gov.my/
+### title ###
+<b>Malaysia</b> Tourism Promotion Board
+### new window URL ###
+http://www.tourism.gov.my/
+### new window image ###
+http://us.i1.yimg.com/us.yimg.com/i/s/nw.gif
+### summary ###
+official site. Offers comprehensive travel information, major events and festivals, and more.
+### category label###
+Category:
+### category URL ###
+http://asia.dir.yahoo.com/Regional/Countries/Malaysia/Recreation_and_Sports/Travel/Organisations/
+### category ###
+<b>Malaysia</b> &gt; <b>Malaysia</b> Tourism Promotion Board
+### URL ###
+www.tourism.gov.my/
+### size ###
+66k
+### Cached URL ###
+http://asia.search.yahoo.com/search/asia_webcache?p=malaysia&ei=UTF-8&dx=1&url=R7EK8pdgcoAJ:www.tourism.gov.my/
+### More pages from this site URL ###
+http://asia.search.yahoo.com/search/asia?p=malaysia&ei=UTF-8&dx=1&fr=&vst=0&vs=www.tourism.gov.my
